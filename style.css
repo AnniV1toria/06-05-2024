@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1d0e6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #333333;
+}
+
+p {
+  color: #000000;
+}
+
+.contador {
+  font-size: 36px;
+  color: #c70000;
+  margin-top: 20px;
+}
